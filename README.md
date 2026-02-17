@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aakash1806
 - 👀 I’m interested in ...Full Stack Web Development
-- 🌱 I’m currently learning ...Node Ks
+- 🌱 I’m currently learning ...Node js
 - 💞️ I’m looking to collaborate on ...Open Source Projects
 - 📫 How to reach me ...aakash062006@gmail.com
 
